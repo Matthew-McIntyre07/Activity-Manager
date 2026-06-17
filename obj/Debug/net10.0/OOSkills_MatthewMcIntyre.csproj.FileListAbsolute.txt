@@ -1,0 +1,14 @@
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\bin\Debug\net10.0\OOSkills_MatthewMcIntyre.exe
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\bin\Debug\net10.0\OOSkills_MatthewMcIntyre.deps.json
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\bin\Debug\net10.0\OOSkills_MatthewMcIntyre.runtimeconfig.json
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\bin\Debug\net10.0\OOSkills_MatthewMcIntyre.dll
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\bin\Debug\net10.0\OOSkills_MatthewMcIntyre.pdb
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.AssemblyInfo.cs
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.dll
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\refint\OOSkills_MatthewMcIntyre.dll
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.pdb
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\OOSkills_MatthewMcIntyre.genruntimeconfig.cache
+C:\Users\matth\source\repos\OOSkills_MatthewMcIntyre\OOSkills_MatthewMcIntyre\obj\Debug\net10.0\ref\OOSkills_MatthewMcIntyre.dll
