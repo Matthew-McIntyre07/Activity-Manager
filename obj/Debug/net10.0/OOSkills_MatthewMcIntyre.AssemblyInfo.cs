@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOSkills_MatthewMcIntyre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54ad138f98cc24696547596d5bd90d256f8713ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ca5b2c762faa93abb1c84663c40de2abafba0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOSkills_MatthewMcIntyre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOSkills_MatthewMcIntyre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
